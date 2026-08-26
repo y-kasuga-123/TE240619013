@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentWindowInfoForMDI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <All>
+    <DocumentWindowInfoForMDIElement>
+      <Name>PlcMon</Name>
+      <SaveKey>[Ladder]PlcMon</SaveKey>
+      <Bounds>
+        <Location>
+          <X>-8</X>
+          <Y>-31</Y>
+        </Location>
+        <Size>
+          <Width>1143</Width>
+          <Height>904</Height>
+        </Size>
+        <X>-8</X>
+        <Y>-31</Y>
+        <Width>1143</Width>
+        <Height>904</Height>
+      </Bounds>
+      <WindowState>Maximized</WindowState>
+    </DocumentWindowInfoForMDIElement>
+  </All>
+</DocumentWindowInfoForMDI>
